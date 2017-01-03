@@ -42,7 +42,9 @@ This is a guidance and index for new starters, and we will continue to keep it u
 * [TBD: U-Boot: Some Guidance]()
 * [TBD: Linux: Some Guidance]()
 * [TBD: Build OpenELEC/LibreELEC for Vim]()
-* [TBD: Build Ubuntu for Vim]()
+* [Build the Bootloader and Ramfs](https://github.com/tomatotech/documents/blob/master/BuildBootloaderAndRamfs.md)
+* [Build Ubuntu Rootfs via a Prebuilt Image](https://github.com/tomatotech/documents/blob/master/BuildUbuntuRootfsViaPrebuiltImage.md)
+* [Build Ubuntu Rootfs via Ubuntu-base](https://github.com/tomatotech/documents/blob/master/BuildUbuntuRootfsViaUbuntuBase.md)
 
 ## Resources
 * [Vim official documents](https://github.com/tomatotech/documents)
